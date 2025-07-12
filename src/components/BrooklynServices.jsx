@@ -11,7 +11,7 @@ const BrooklynServices = ({ services, onBookingClick }) => {
         <div className="services-divider" role="separator" aria-hidden="true"></div>
         
         <div className="services-grid main-services" role="list" aria-label="Available barbering services">
-          {services.map((service, index) => (
+          {services.map((service) => (
             <article key={service.id} className="service-card main-service" role="listitem">
               <div className="service-image-container">
                 <img 
