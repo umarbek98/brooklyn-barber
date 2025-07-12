@@ -44,7 +44,7 @@ export const services = [
     duration: 45,
     icon: '✂️',
     description: 'Traditional scissor cut with classic styling',
-    image: '/src/assets/services/classic cut.jpg',
+    image: '/images/services/classic cut.jpg',
     category: 'individual'
   },
   { 
@@ -54,7 +54,7 @@ export const services = [
     duration: 30,
     icon: '🧔',
     description: 'Professional beard shaping and trimming',
-    image: '/src/assets/services/beard-trim.jpg',
+    image: '/images/services/beard-trim.jpg',
     category: 'individual'
   },
   { 
@@ -64,7 +64,7 @@ export const services = [
     duration: 60,
     icon: '🪒',
     description: 'Classic straight razor shave with hot towel',
-    image: '/src/assets/services/shave.jpg',
+    image: '/images/services/shave.jpg',
     category: 'individual'
   },
   { 
@@ -74,7 +74,7 @@ export const services = [
     duration: 15,
     icon: '🥸',
     description: 'Precision mustache grooming and styling',
-    image: '/src/assets/services/mustache.jpg',
+    image: '/images/services/mustache.jpg',
     category: 'individual'
   },
   { 
@@ -84,7 +84,7 @@ export const services = [
     duration: 30,
     icon: '🔥',
     description: 'Relaxing hot towel face treatment',
-    image: '/src/assets/services/hot towel.jpg',
+    image: '/images/services/hot towel.jpg',
     category: 'individual'
   }
 ]
